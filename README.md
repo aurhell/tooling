@@ -15,3 +15,4 @@ a list of tools to install on a new computer
 - [Bitwarden](https://bitwarden.com/) The password manager trusted by millions
 - [Oh My Zsh](https://ohmyz.sh/) Unleash your terminal like never before.
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
+- [Gitmoji](https://gitmoji.dev/) An emoji guide for your commit messages
